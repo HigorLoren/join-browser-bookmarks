@@ -1,0 +1,14 @@
+{
+  "name": "join-browser-bookmarks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "HigorLoren",
+  "license": "MIT",
+  "dependencies": {
+    "bookmark-file-parser": "^1.0.6"
+  }
+}
